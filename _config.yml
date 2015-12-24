@@ -1,6 +1,6 @@
 name: Snapshots
 favicon: null
-layout_spectrum: 0.25447
+layout_spectrum: 1
 typography_spectrum: 0.34157967986539006
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#141618'
+    - '#445e70'
+    - '#c6b7a6'
+    - '#7a9299'
+    - '#4f452f'
   brandStrength: 0.48484244104474783
-  lightness: 0.4443325004540384
-  saturation: 0.2069409405812621
-  rhythmicContrast: 0.5329855750314891
+  lightness: 0.25
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []

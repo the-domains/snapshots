@@ -4,11 +4,18 @@
         <description><![CDATA[Snapshots]]></description>
         <link>https://thegrid.ai/snapshots/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 22:54:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 22:55:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/snapshots/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Puerto Varas]]></title>
+            <description><![CDATA[<article><h1>Puerto Varas</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07234488d01cea629cda3ef9cc797eb9c3097394.jpg"></article>]]></description>
+            <link>https://thegrid.ai/snapshots/puerto-varas/index.html</link>
+            <guid isPermaLink="false">461124c4-fd3c-42de-bc99-ce0e05f4eb13</guid>
+            <pubDate>Sun, 27 Dec 2015 22:54:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Como un sueño]]></title>
-            <description><![CDATA[<article><h1>Como un sueño</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e219636482458fe029cf6ea642f535533eaa947e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Como un sueño</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe6512eef4b283505c7e628267b948ed2c91ce35.jpg"></article>]]></description>
             <link>https://thegrid.ai/snapshots/como-un-sueno/index.html</link>
             <guid isPermaLink="false">3ecb4e50-d07b-4c71-b652-832986732ab3</guid>
             <pubDate>Sun, 27 Dec 2015 22:54:50 GMT</pubDate>

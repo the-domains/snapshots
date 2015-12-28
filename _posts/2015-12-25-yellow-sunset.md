@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T22:56:48.174Z'
-dateModified: '2015-12-27T22:56:45.008Z'
+datePublished: '2015-12-28T00:44:02.925Z'
+dateModified: '2015-12-28T00:43:59.798Z'
 title: Gold Sunset
 author: []
 sourcePath: _posts/2015-12-25-yellow-sunset.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: yellow-sunset/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Gold Sunset

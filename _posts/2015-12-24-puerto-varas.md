@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T22:54:59.868Z'
-dateModified: '2015-12-27T22:54:32.642Z'
+datePublished: '2015-12-28T13:49:28.741Z'
+dateModified: '2015-12-28T13:49:25.710Z'
 title: Puerto Varas
 author: []
 sourcePath: _posts/2015-12-24-puerto-varas.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: puerto-varas/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Puerto Varas

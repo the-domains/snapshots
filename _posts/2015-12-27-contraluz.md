@@ -1,26 +1,26 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T00:15:45.025Z'
-dateModified: '2015-12-27T00:15:31.933Z'
+datePublished: '2016-02-29T02:01:56.913Z'
+dateModified: '2016-02-29T02:01:55.458Z'
 title: Contraluz
 author: []
+sourcePath: _posts/2015-12-27-contraluz.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-27-contraluz.md
-published: true
-url: contraluz/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Contraluz
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/533ccea007c06611bf1b91d4a466cccfc0be1ff8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d37cb3f55e4ae8dcdf7bd0b081b06090c140ba0.jpg)

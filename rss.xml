@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Snapshots]]></title>
         <description><![CDATA[Snapshots]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/snapshots/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 02:03:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 02:03:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/snapshots/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[San Francisco. Los Andes, Chile.]]></title>
+            <description><![CDATA[<article><h1>San Francisco. Los Andes, Chile.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb9f9534d0f9d6a5d21a368f68edd987fb12dcf0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/snapshots/san-francisco-los-andes-chile/index.html</link>
+            <guid isPermaLink="false">fb11e660-e574-419e-844e-aa3d0ead493f</guid>
+            <pubDate>Mon, 29 Feb 2016 02:02:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[El árbol de la vida....]]></title>
             <description><![CDATA[<article><h1>El árbol de la vida....</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7172085328dee7de4d0528e9a345d508601109e1.jpg"></article>]]></description>
-            <link>undefinedel-arbol-de-la-vida/index.html</link>
+            <link>https://thegrid.ai/snapshots/el-arbol-de-la-vida/index.html</link>
             <guid isPermaLink="false">1c7694cf-7e9d-4153-b895-3274e89dceaf</guid>
             <pubDate>Mon, 29 Feb 2016 02:02:25 GMT</pubDate>
         </item>

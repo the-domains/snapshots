@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Snapshots]]></title>
+        <description><![CDATA[Snapshots]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 29 Feb 2016 02:03:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[El árbol de la vida....]]></title>
+            <description><![CDATA[<article><h1>El árbol de la vida....</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7172085328dee7de4d0528e9a345d508601109e1.jpg"></article>]]></description>
+            <link>undefinedel-arbol-de-la-vida/index.html</link>
+            <guid isPermaLink="false">1c7694cf-7e9d-4153-b895-3274e89dceaf</guid>
+            <pubDate>Mon, 29 Feb 2016 02:02:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
